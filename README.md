@@ -1,3 +1,3 @@
 # CSV View
 
-Table formatted viewing of CSV data.
+Table-formatted viewing of CSV data.
