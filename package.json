@@ -1,0 +1,14 @@
+{
+  "name": "csv-view",
+  "main": "./lib/csv-view",
+  "version": "0.0.0",
+  "description": "Table formatted viewing of CSV data",
+  "activationEvents": ["csv-view:toggle"],
+  "repository": "https://github.com/lee-dohm/csv-view",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
